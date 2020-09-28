@@ -1,0 +1,2 @@
+# markdown-images-minimized
+主要目标是除去在typora等软件中存在但是又未被引用的文件
